@@ -12,8 +12,9 @@ This repository has only code related with paper. If you want to run this code, 
 
 ### 1.2 data download
 
-This is not contain fMRI data. If you want to download the data, see http://preprocessed-connectomes-project.org/adhd200/download.html
-In this site, you can find NIAK dataset in https://www.nitrc.org/frs/?group_id=383
+This is not contain fMRI data. If you want to download the data, 
+see http://preprocessed-connectomes-project.org/adhd200/download.html
+You can find NIAK dataset in https://www.nitrc.org/frs/?group_id=383
 
 ### 1.3 data preprocessing
 
